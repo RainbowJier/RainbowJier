@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="imgs/pusheencode.gif"/>
 
-### I'm RainbowJier !
+### I'm RainbowJier!
 
  - 安徽某大学一名计算机专业在读本科生，开源技术爱好者。
 - ⚡ 有趣的小知识：我喜欢 Java 开发、机器学习、LeetCode。。。。
@@ -29,11 +29,11 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Vue的个人博客系统](https://github.com/RianbowJier/RainbowBlog)
-- [基于SpringBoot + Vue的个人云端网盘系统](https://github.com/RianbowJier/RainbowPan)
-- [Machine Learning And Deep Learning](https://github.com/RianbowJier/MachineLearning)
-- [DataStructure-and-Algorithm](https://github.com/RianbowJier/DataStructure-and-Algorithm)
-- [Python爬虫](https://github.com/RianbowJier/Python-Crawler)
+- [基于SpringBoot + Vue的个人博客系统](https://github.com/RainbowJier/RainhbowBlog)
+- [基于SpringBoot + Vue的个人云端网盘系统](https://github.com/RainbowJier/RainbowPan)
+- [Machine Learning And Deep Learning](https://github.com/RainbowJier/MachineLearning)
+- [DataStructure-and-Algorithm](https://github.com/RainbowJier/DataStructure-and-Algorithm)
+- [Python爬虫](https://github.com/RainbowJier/Python-Crawler)
 
 
 ### 关于我
@@ -42,4 +42,4 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [RainbowJier](https://github.com/RianbowJier)
+⭐️ From [RainbowJier](https://github.com/RainbowJier)
