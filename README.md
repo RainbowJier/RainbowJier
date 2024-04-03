@@ -1,19 +1,19 @@
-## Hello GitHub Fans 👋
+# Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-3021809270@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:3021809270@qq.com)](mailto:3021809270@qq.com)
 ---
 
 <img align="right" alt="GIF" src="imgs/pusheencode.gif"/>
 
-### I'm RainbowJier!
+## I'm RainbowJier!
 
- - 安徽某大学一名计算机专业在读本科生，开源技术爱好者。
-- ⚡ 有趣的小知识：我喜欢 Java 开发、机器学习、LeetCode。。。。
- - 🌱 知识、灵感、汉水、机遇。
- - 💬 扣扣邮箱：3021809270@qq.com。
+ - An undergraduate student majoring in computer science at a university in Anhui Province, an open-source technology enthusiast.
+ - 🔭 I’m currently working on Java development  Python, Linux, machine learning and other technologies.
+ - 🌱 Knowledge, Inspiration, Sweat, Opportunity.
+ - 💬 Email：3021809270@qq.com。
  - ⭐ 游戏爱好者
 
 
-### 🛠 技术栈 | Tech Stack
+## 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -28,15 +28,24 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
+## 🔆 New Features
 - [基于SpringBoot + Vue的个人博客系统](https://github.com/RainbowJier/RainhbowBlog)
 - [基于SpringBoot + Vue的个人云端网盘系统](https://github.com/RainbowJier/RainbowPan)
 - [Machine Learning And Deep Learning](https://github.com/RainbowJier/MachineLearning)
 - [DataStructure-and-Algorithm](https://github.com/RainbowJier/DataStructure-and-Algorithm)
-- [Python爬虫](https://github.com/RainbowJier/Python-Crawler)
+- [YOLOV5_QUICK_STRAT](https://github.com/RainbowJier/YOLOV5_QUICK_STRAT)
+- AI-AIMBOT-YOLOV5
+- [Python](https://github.com/RainbowJier/Python-Crawler)
 
 
-### 关于我
+## 🙏Todo List
+- [ ] [SpringBoot Document](https://github.com/RainbowJier/SpringBoot_Document)
+- [ ] Mybatis-plus
+- [ ] Spring Cloud
+- [ ] Backend management system
+- [ ] Vue3
+
+### About
 - [语雀](https://www.yuque.com/paidaxingbuchixingxing/dbb93m)
 - [CSDN](https://blog.csdn.net/weixin_51329147?spm=1000.2115.3001.5343)
 
