@@ -34,7 +34,7 @@
 - [Machine Learning And Deep Learning](https://github.com/RainbowJier/MachineLearning)
 - [DataStructure-and-Algorithm](https://github.com/RainbowJier/DataStructure-and-Algorithm)
 - [YOLOV5_QUICK_STRAT](https://github.com/RainbowJier/YOLOV5_QUICK_STRAT)
-- AI-AIMBOT-YOLOV5
+- AI-AIMBOT-YOLOV5(private)
 - [Python](https://github.com/RainbowJier/Python-Crawler)
 
 
