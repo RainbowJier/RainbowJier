@@ -40,9 +40,12 @@
 
 ## 🙏Todo List
 - [ ] [SpringBoot Document](https://github.com/RainbowJier/SpringBoot_Document)
+- [ ] Backend management system
+  - [tutorial_1](https://www.bilibili.com/video/BV1pq4y1c7oy/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click)
+  - [tutorial_2](https://www.bilibili.com/video/BV1QU4y1E7qo?p=87&spm_id_from=pageDriver&vd_source=3040346f6e1d660a222fccde6b153716)
 - [ ] Mybatis-plus
 - [ ] Spring Cloud
-- [ ] Backend management system
+
 - [ ] Vue3
 
 ### About
