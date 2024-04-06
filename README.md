@@ -45,8 +45,18 @@
   - [tutorial_2](https://www.bilibili.com/video/BV1QU4y1E7qo?p=87&spm_id_from=pageDriver&vd_source=3040346f6e1d660a222fccde6b153716)
 - [ ] Mybatis-plus
 - [ ] Spring Cloud
-
 - [ ] Vue3
+
+
+###  🍳Daily Todo
+- [ ] [English Listening and Speaking]()
+  - B1
+    - https://www.youtube.com/@LearnEnglishWithTVSeries
+    - https://www.youtube.com/@tofluency
+  - C1
+    - https://www.youtube.com/@TheEconomist
+    - https://www.youtube.com/@TED
+- [ ] English words.
 
 ### About
 - [语雀](https://www.yuque.com/paidaxingbuchixingxing/dbb93m)
