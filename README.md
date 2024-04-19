@@ -2,8 +2,6 @@
 [![Mail Badge](https://img.shields.io/badge/-3021809270@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:3021809270@qq.com)](mailto:3021809270@qq.com)
 ---
 
-<img align="right" alt="GIF" src="imgs/pusheencode.gif"/>
-
 ## I'm RainbowJier!
 
  - An undergraduate student majoring in computer science at a university in Anhui Province, an open-source technology enthusiast.
