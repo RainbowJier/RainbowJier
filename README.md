@@ -10,7 +10,7 @@
  - 🔭 I’m currently working on Java development  Python, Linux, machine learning and other technologies.
  - 🌱 Knowledge, Inspiration, Sweat, Opportunity.
  - 💬 Email：3021809270@qq.com。
- - ⭐ 游戏爱好者
+ - ⭐ Gaming
 
 
 ## 🛠 技术栈 | Tech Stack
