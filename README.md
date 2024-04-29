@@ -35,11 +35,11 @@
 - AI-AIMBOT-YOLOV5(private)
 - [Python](https://github.com/RainbowJier/Python-Crawler)
 - [SpringBoot Document](https://github.com/RainbowJier/SpringBoot_Document)
+- [Mybatis-plus](https://github.com/RainbowJier/MybatisPlus)
 
 
 ## 🙏Todo List
 - [ ] Authentication_And_Authorization_Module
-- [ ] Mybatis-plus
 - [ ] Spring Cloud
 - [ ] Vue3
 
