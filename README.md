@@ -46,7 +46,7 @@
 
 ###  🍳Todo
 - [ ] [English Listening practice]
-      - (level1)[https://www.youtube.com/watch?v=cC2vxmBDAG8&list=PLnVI9JDrMzHhtDdYn__H2DDWlAfV1uZP6]
+      - [level1](https://www.youtube.com/watch?v=cC2vxmBDAG8&list=PLnVI9JDrMzHhtDdYn__H2DDWlAfV1uZP6)
 
 ### About
 - [语雀](https://www.yuque.com/paidaxingbuchixingxing/dbb93m)
