@@ -45,15 +45,8 @@
 
 
 ###  🍳Todo
-- [ ] Working Sharing report.
-- [ ] [English Listening and Speaking]()
-  - B1
-    - https://www.youtube.com/@LearnEnglishWithTVSeries
-    - https://www.youtube.com/@tofluency
-  - C1
-    - https://www.youtube.com/@TheEconomist
-    - https://www.youtube.com/@TED
-- [ ] English words.
+- [ ] [English Listening practice]
+      - (level1)[https://www.youtube.com/watch?v=cC2vxmBDAG8&list=PLnVI9JDrMzHhtDdYn__H2DDWlAfV1uZP6]
 
 ### About
 - [语雀](https://www.yuque.com/paidaxingbuchixingxing/dbb93m)
