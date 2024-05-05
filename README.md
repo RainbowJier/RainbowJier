@@ -40,8 +40,8 @@
 
 ## 🙏Todo List
 - [ ] Graduation thesis
-      - test
-      - 二十  
+ - test
+ - 二十  
 - [ ] Authentication_And_Authorization_Module
 - [ ] Spring Cloud
 - [ ] Vue3
@@ -49,7 +49,7 @@
 
 ###  🍳Future
 - [ ] [English Listening practice]
-      - [level1](https://www.youtube.com/watch?v=cC2vxmBDAG8&list=PLnVI9JDrMzHhtDdYn__H2DDWlAfV1uZP6)
+ - [level1](https://www.youtube.com/watch?v=cC2vxmBDAG8&list=PLnVI9JDrMzHhtDdYn__H2DDWlAfV1uZP6)
 
 ### About
 - [语雀](https://www.yuque.com/paidaxingbuchixingxing/dbb93m)
