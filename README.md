@@ -39,12 +39,13 @@
 
 
 ## 🙏Todo List
+- [ ] 毕业论文
 - [ ] Authentication_And_Authorization_Module
 - [ ] Spring Cloud
 - [ ] Vue3
 
 
-###  🍳Todo
+###  🍳Future
 - [ ] [English Listening practice]
       - [level1](https://www.youtube.com/watch?v=cC2vxmBDAG8&list=PLnVI9JDrMzHhtDdYn__H2DDWlAfV1uZP6)
 
