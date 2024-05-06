@@ -39,6 +39,8 @@
 
 
 ## 🙏Todo List
+- [ ] [Linux](https://github.com/RainbowJier/Linux/tree/main)
+- [ ] [Docker]()
 - [ ] Graduation thesis
   - test
   - 二十  
