@@ -39,6 +39,7 @@
 
 
 ## 🙏Todo List
+- [ ] [opendigger](https://github.com/RainbowJier/opendigger_pycli)
 - [ ] [Linux](https://github.com/RainbowJier/Linux/tree/main)
 - [ ] [Dockeer]()
 - [ ] Graduation thesis
