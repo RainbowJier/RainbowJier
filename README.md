@@ -41,15 +41,6 @@
 
 
 ## 🍳 Daily Todo
-- [ ] [English Listening and Speaking]()
-  - B1
-    - https://www.youtube.com/@LearnEnglishWithTVSeries
-    - https://www.youtube.com/@tofluency
-  - C1
-    - https://www.youtube.com/@TheEconomist
-    - https://www.youtube.com/@TED
-- [ ] English words.
-
 
 
 
