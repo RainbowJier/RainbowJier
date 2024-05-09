@@ -30,7 +30,7 @@
 - [Python](https://github.com/RainbowJier/Python-Crawler)
 
 
-## 🙏Todo List
+## 🙏 Todo List
 - [ ] [SpringBoot Document](https://github.com/RainbowJier/SpringBoot_Document)
 - [ ] Backend management system
   - [tutorial_1](https://www.bilibili.com/video/BV1pq4y1c7oy/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click)
@@ -40,7 +40,7 @@
 - [ ] Vue3
 
 
-###  🍳Daily Todo
+## 🍳 Daily Todo
 - [ ] [English Listening and Speaking]()
   - B1
     - https://www.youtube.com/@LearnEnglishWithTVSeries
@@ -53,7 +53,7 @@
 
 
 
-### About
+## 🎈 About
 - [语雀](https://www.yuque.com/paidaxingbuchixingxing/dbb93m)
 - [CSDN](https://blog.csdn.net/weixin_51329147?spm=1000.2115.3001.5343)
 
