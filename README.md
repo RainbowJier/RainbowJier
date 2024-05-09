@@ -52,7 +52,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainbowjier&show_icons=true&locale=en&layout=compact" alt="rainbowjier" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rainbowjier&" alt="rainbowjier" /></p>
 
 
