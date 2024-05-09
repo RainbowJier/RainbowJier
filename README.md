@@ -30,18 +30,20 @@
 - [Python](https://github.com/RainbowJier/Python-Crawler)
 
 
-## 🙏 Todo List
-- [ ] [SpringBoot Document](https://github.com/RainbowJier/SpringBoot_Document)
-- [ ] Backend management system
-  - [tutorial_1](https://www.bilibili.com/video/BV1pq4y1c7oy/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click)
-  - [tutorial_2](https://www.bilibili.com/video/BV1QU4y1E7qo?p=87&spm_id_from=pageDriver&vd_source=3040346f6e1d660a222fccde6b153716)
-- [ ] Mybatis-plus
+## 🙏Todo List
+- [ ] [opendigger](https://github.com/RainbowJier/opendigger_pycli)
+- [ ] [Linux](https://github.com/RainbowJier/Linux/tree/main)
+- [ ] [Docker]()
+- [ ] Graduation thesis
+  - test
+- [ ] Authentication_And_Authorization_Module
 - [ ] Spring Cloud
 - [ ] Vue3
 
 
-## 🍳 Daily Todo
-
+###  🍳Future
+- [ ] [English Listening practice]
+  - [level1](https://www.youtube.com/watch?v=cC2vxmBDAG8&list=PLnVI9JDrMzHhtDdYn__H2DDWlAfV1uZP6)
 
 
 ## 🎈 About
