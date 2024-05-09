@@ -30,7 +30,7 @@
 - [Python](https://github.com/RainbowJier/Python-Crawler)
 
 
-## 🙏Todo List
+## 🙏 Todo List
 - [ ] [opendigger](https://github.com/RainbowJier/opendigger_pycli)
 - [ ] [Linux](https://github.com/RainbowJier/Linux/tree/main)
 - [ ] [Docker]()
@@ -41,7 +41,7 @@
 - [ ] Vue3
 
 
-###  🍳Future
+## 🍳 Plan
 - [ ] [English Listening practice]
   - [level1](https://www.youtube.com/watch?v=cC2vxmBDAG8&list=PLnVI9JDrMzHhtDdYn__H2DDWlAfV1uZP6)
 
