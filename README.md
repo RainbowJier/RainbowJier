@@ -1,32 +1,72 @@
 <h1 align="center">Hi 👋, I'm Frank</h1>
-<h3 align="center">A passionate Java developer from China</h3>
+<h3 align="center">A passionate Java & Machine Learning Developer from China</h3>
 
-- 🌱 I’m currently learning **Java, SpringBoot, Spring Cloud, Python, Machine Learning**
+<p align="center">
+  <a href="https://blog.csdn.net/weixin_51329147"><img src="https://img.shields.io/badge/CSDN-@Frank-red?style=flat-square&logo=csdn&logoColor=white" alt="CSDN"></a>
+  <a href="https://www.yuque.com/paidaxingbuchixingxing/dbb93m"><img src="https://img.shields.io/badge/Yuque-@Frank-green?style=flat-square" alt="Yuque"></a>
+  <a href="mailto:3021809270@qq.com"><img src="https://img.shields.io/badge/Email-3021809270@qq.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- 👨‍💻 All of my projects are available at [projects](https://github.com/RainbowJier?tab=repositories)
+---
 
-- 📝 I regularly write articles on [articles](https://github.com/RainbowJier)
+## 🚀 About Me
 
-- 📫 How to reach me [![Mail Badge](https://img.shields.io/badge/-3021809270@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:3021809270@qq.com)](mailto:3021809270@qq.com)
+- 🌱 **Currently learning:** Advanced Microservices (Spring Cloud), Python ecosystem, and Machine Learning algorithms.
+- 👨‍💻 **My Portfolio:** Check out all of my open-source projects right here on [GitHub Repositories](https://github.com/RainbowJier?tab=repositories).
+- 📝 **Technical Writing:** I regularly share my learning journey and insights on my [CSDN Blog](https://blog.csdn.net/weixin_51329147) and [Yuque](https://www.yuque.com/paidaxingbuchixingxing/dbb93m).
+- ⚡ **Fun Fact:** I think I am funny. (And honestly, perception is reality, right?)
 
-- 📄 Know about my experiences [Blog](Blog)
+> **I love connecting with developers worldwide!** scale out your network, or just drop by to say hi—I'd happy to chat! 😊
 
-- ⚡ Fun fact **I think I am funny**
+---
 
+## 🛠️ Languages and Tools
 
+### 🌐 Backend & Microservices
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.python.org" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>
 
-## 🧱 Languages and Tools
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🧠 Data Science & Machine Learning
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</p>
 
-## 🎈 About
-- [语雀](https://www.yuque.com/paidaxingbuchixingxing/dbb93m)
-- [CSDN](https://blog.csdn.net/weixin_51329147?spm=1000.2115.3001.5343)
+### 🗄️ Databases, Queues & Big Data
+<p align="left">
+  <img src="https://www.mysql.com/" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>&nbsp;
+  <img src="https://www.rabbitmq.com" alt="rabbitMQ" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+</p>
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+### 🚀 DevOps & Frontend Frontend
+<p align="left">
+  <img src="https://www.docker.com/" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://www.linux.org/" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.nginx.com" alt="nginx" width="40" height="40"/>&nbsp;
+  <img src="https://git-scm.com/" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://vuejs.org/" alt="vuejs" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainbowjier&show_icons=true&locale=en&layout=compact" alt="rainbowjier" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rainbowjier&" alt="rainbowjier" /></p>
+## 📊 Git Insights & Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainbowjier&show_icons=true&locale=en&layout=compact&theme=visual_studio" alt="Frank's Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainbowjier&theme=visual_studio" alt="Frank's GitHub Streak" />
+</p>
 
-⭐️ From [RainbowJier](https://github.com/RainbowJier)
+<p align="center">⭐️ From <a href="https://github.com/RainbowJier">RainbowJier</a></p>
