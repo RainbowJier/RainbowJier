@@ -65,9 +65,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainbowjier&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowJier&layout=compact&theme=vision-friendly-dark&hide_progress=false" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainbowjier&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RainbowJier&theme=vision-friendly-dark" alt="GitHub Streak" />
 </p>
 
 ---
